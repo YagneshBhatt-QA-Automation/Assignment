@@ -1,0 +1,14 @@
+2021-06-04 23:46:01 INFO  TestBase:69 - Running Tests On web Platform.
+2021-06-04 23:46:05 INFO  TestBase:98 - Starting brower
+2021-06-04 23:46:05 INFO  DriverScript:50 - Running Step: Automation Test 1: Flight Reservation
+2021-06-04 23:46:22 ERROR blazedemoPages:81 - Exception Occurred While Enter Src & Dest : no such element: Unable to locate element: {"method":"css selector","selector":"*[name='toport']"}
+  (Session info: chrome=79.0.3945.88)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LIN51004651', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.16 (93fcc21110c10..., userDataDir: C:\Users\ybhatt\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51287}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 99a21f2f8ce2ca766b8b9e44e6a3a340
+*** Element info: {Using=name, value=toport}
+2021-06-04 23:46:22 ERROR DriverScript:61 - From & To Port unsuccessfull 
+2021-06-04 23:46:23 INFO  ReusableFunctions:281 - Saving screenshot to fail repo: C:\Users\ybhatt\eclipse-workspace\Assignment\Screenshots\FailWebPage20210604114622.png
