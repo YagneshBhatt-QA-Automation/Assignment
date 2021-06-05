@@ -41,7 +41,7 @@ Framework implements below best practices
 
 
 # Test Plan for blazedemo Application
-WestWing is application which is helping to end customer for selecting Home Decoration Products.
+application which is helping to end customer for selecting flight and book it.
 
 Below list of topics which going to help you for to define future testing & automation regression scope 
 
